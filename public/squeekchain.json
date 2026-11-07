@@ -1,0 +1,19 @@
+{
+  "name": "Squeek Warriors: Hamster Kingdom",
+  "version": "1.0.0",
+  "description": "A retro HD2D turn-based RPG powered by Squeekchain live hamster PoW hashrate and round metrics.",
+  "squeekchain": {
+    "engine": "live-api",
+    "apis": [
+      "https://api.squeekchain.com/v1/status",
+      "https://api.squeekchain.com/v1/economy/state",
+      "https://api.squeekchain.com/v1/core"
+    ],
+    "features": [
+      "Real-time Squeektoshi running state buff (ATK Frenzy / DEF Mode)",
+      "Live Wheel RPM damage multiplier",
+      "Round-based settlement & PoW credits reward",
+      "Interactive Genesis HUD overlay"
+    ]
+  }
+}
