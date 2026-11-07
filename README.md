@@ -52,3 +52,4 @@ npm run build
 - **Verification Config**: `squeekchain.json` at root
 
 squeekchain-project: a661bb2d-0d46-482c-abba-b63fb4e183c7
+squeekchain-verify: a295f58001f36b08381d9c27ec28fe0fa8d830c17da50466
