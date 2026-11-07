@@ -51,4 +51,4 @@ npm run build
 - **Verification Tag**: Included in `index.html`
 - **Verification Config**: `squeekchain.json` at root
 
-<!-- squeekchain-project: YOUR_PROJECT_ID -->
+squeekchain-project: a661bb2d-0d46-482c-abba-b63fb4e183c7

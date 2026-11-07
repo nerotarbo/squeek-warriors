@@ -1,6 +1,7 @@
 {
   "name": "Squeek Warriors: Hamster Kingdom",
   "version": "1.0.0",
+  "projectId": "a661bb2d-0d46-482c-abba-b63fb4e183c7",
   "description": "A retro HD2D turn-based RPG powered by Squeekchain live hamster PoW hashrate and round metrics.",
   "squeekchain": {
     "engine": "live-api",
